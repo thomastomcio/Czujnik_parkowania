@@ -10,5 +10,7 @@ Założenia projektowe:
 
 Założenia opcjonalne:
 
--jakis equalizer???
+-jakis equalizer?
+
+Końcowe założenia do 14.12.2020
 
